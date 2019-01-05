@@ -3,8 +3,8 @@
 ## Project
 
 - [ ] Shirt Color Recorder (Web and App version)
-- [ ] Bixby to-do / reminder
+- [ ] Samsung Widget to-do / reminder
 
 ## New thing to learn
 
-- [ ] Bixby
+- [ ] Samsung Widget
